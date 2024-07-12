@@ -1,3 +1,6 @@
 [submodule "auth-service"]
 	path = auth-service
 	url = https://github.com/nol4lej/qufc-auth-service.git
+[submodule "qufc-react-app"]
+	path = qufc-react-app
+	url = https://github.com/nol4lej/qufc-react-app.git
